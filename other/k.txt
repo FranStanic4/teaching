@@ -1,0 +1,34 @@
+01-1 bool, int, float, string
+01-2 f string/multi-line-str
+
+02-1 input/print 
+02-2 if -else -elif
+
+03-1 list -dict
+03-2 for -range
+03-3 while
+
+04-1 func -lambda
+04-2 __name__ 
+04-3 typed py
+
+05-1 class
+
+
+06-1 import
+06-2 math
+06-3 time/datetime
+06-4 os
+06-5 bytes
+06-6 data saving raw json pickle
+06-7 fernet
+
+07-1 pygame
+07-2 make simple window
+07-3 simple rendering
+07-4 event handeling
+07-5 multiple screens
+
+08-1 multifile
+
+09-1 threading
