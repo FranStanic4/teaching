@@ -30,5 +30,6 @@
 07-5 multiple screens
 
 08-1 multifile
+08-2 dekorator
 
 09-1 threading
